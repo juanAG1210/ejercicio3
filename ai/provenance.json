@@ -1,0 +1,10 @@
+{
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "model": "GPT-5.1 Thinking",
+      "provider": "OpenAI",
+      "dates_used": ["2025-12-09"]
+    }
+  ]
+}
